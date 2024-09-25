@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "6ac2",
+      "title": "I want to learn automation",
+      "author": "Varun"
+    },
+    {
+      "id": "9450",
+      "title": "I want to learn automation",
+      "author": "Varun"
+    },
+    {
+      "id": "0b9a",
+      "title": "I want to learn automation",
+      "author": "Varun"
+    },
+    {
+      "id": "e5d7",
+      "title": "I want to learn automation",
+      "author": "Varun"
+    },
+    {
+      "id": "1b1c",
+      "title": "I want to learn automation",
+      "author": "Varun"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
