@@ -11,9 +11,9 @@
       "author": "Varun"
     },
     {
-      "id": "9450",
-      "title": "I want to learn automation",
-      "author": "Varun"
+      "title": "I want to learn automation cypress",
+      "author": "Varun rao",
+      "id": "9450"
     },
     {
       "id": "0b9a",
@@ -24,11 +24,6 @@
       "id": "e5d7",
       "title": "I want to learn automation",
       "author": "Varun"
-    },
-    {
-      "id": "1b1c",
-      "title": "I want to learn automation",
-      "author": "Varun"
     }
   ],
   "comments": [
@@ -36,6 +31,26 @@
       "id": "1",
       "body": "some comment",
       "postId": 1
+    },
+    {
+      "id": "2",
+      "body": "I love india",
+      "postId": 2
+    },
+    {
+      "id": "3",
+      "body": "I love india",
+      "postId": 3
+    },
+    {
+      "id": "4",
+      "body": "I love india",
+      "postId": 4
+    },
+    {
+      "id": 6,
+      "body": "I love india",
+      "postId": 6
     }
   ],
   "profile": {
